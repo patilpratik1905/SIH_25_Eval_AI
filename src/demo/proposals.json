@@ -1,0 +1,125 @@
+[
+    {
+        "id": "CIL-2025-017",
+        "date": "2025-10-03",
+        "title": "Methane Monitoring",
+        "recommendation": "Revise",
+        "scores": {
+            "overall": 78,
+            "novelty": 72,
+            "finance": 84,
+            "feasibility": 76,
+            "alignment": 80
+        },
+        "similar": [
+            {
+                "id": "CIL-2023-014",
+                "sim": 0.71
+            }
+        ],
+        "budgetCOA": [
+            {
+                "head": "Manpower",
+                "amount": 34.2
+            },
+            {
+                "head": "Equipment",
+                "amount": 28.0
+            },
+            {
+                "head": "Travel",
+                "amount": 10.5
+            },
+            {
+                "head": "Consumables",
+                "amount": 7.1
+            },
+            {
+                "head": "Overheads",
+                "amount": 2.7
+            }
+        ]
+    },
+    {
+        "id": "CIL-2025-021",
+        "date": "2025-10-07",
+        "title": "Overburden Mapping",
+        "recommendation": "Advance",
+        "scores": {
+            "overall": 86,
+            "novelty": 81,
+            "finance": 88,
+            "feasibility": 83,
+            "alignment": 85
+        },
+        "similar": [
+            {
+                "id": "CIL-2022-010",
+                "sim": 0.44
+            }
+        ],
+        "budgetCOA": [
+            {
+                "head": "Manpower",
+                "amount": 18.0
+            },
+            {
+                "head": "Equipment",
+                "amount": 25.0
+            },
+            {
+                "head": "Travel",
+                "amount": 4.0
+            },
+            {
+                "head": "Consumables",
+                "amount": 6.0
+            },
+            {
+                "head": "Overheads",
+                "amount": 3.0
+            }
+        ]
+    },
+    {
+        "id": "CIL-2025-012",
+        "date": "2025-09-24",
+        "title": "Dust Suppression Systems",
+        "recommendation": "Decline",
+        "scores": {
+            "overall": 62,
+            "novelty": 58,
+            "finance": 70,
+            "feasibility": 60,
+            "alignment": 65
+        },
+        "similar": [
+            {
+                "id": "CIL-2021-009",
+                "sim": 0.52
+            }
+        ],
+        "budgetCOA": [
+            {
+                "head": "Manpower",
+                "amount": 22.0
+            },
+            {
+                "head": "Equipment",
+                "amount": 15.0
+            },
+            {
+                "head": "Travel",
+                "amount": 6.0
+            },
+            {
+                "head": "Consumables",
+                "amount": 5.0
+            },
+            {
+                "head": "Overheads",
+                "amount": 2.0
+            }
+        ]
+    }
+]
